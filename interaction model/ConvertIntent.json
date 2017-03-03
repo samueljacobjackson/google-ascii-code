@@ -1,0 +1,240 @@
+{
+  "templates": [
+    "@Phoenetic:phoenetic to @Type:type ",
+    "@Character:char as in @Phoenetic:phoenetic to @Type:type ",
+    "@Character:char mark to @Type:type ",
+    "@Character:char sign to @Type:type ",
+    "@Character:char symbol to @Type:type ",
+    "@Case:case  @Character:char to @Type:type ",
+    " @Character:char to @Type:type "
+  ],
+  "userSays": [
+    {
+      "id": "4b5ec1ca-341c-4c95-8df2-8e1bd97e20ae",
+      "data": [
+        {
+          "text": "alpha",
+          "alias": "phoenetic",
+          "meta": "@Phoenetic",
+          "userDefined": false
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "binary",
+          "alias": "type",
+          "meta": "@Type",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ca61bcd6-1baf-4d34-9512-e3380278204c",
+      "data": [
+        {
+          "text": "a",
+          "alias": "char",
+          "meta": "@Character",
+          "userDefined": true
+        },
+        {
+          "text": " as in "
+        },
+        {
+          "text": "alpha",
+          "alias": "phoenetic",
+          "meta": "@Phoenetic",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "octal",
+          "alias": "type",
+          "meta": "@Type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8c746475-1abd-4067-92be-ada67f730ae2",
+      "data": [
+        {
+          "text": "question",
+          "alias": "char",
+          "meta": "@Character",
+          "userDefined": true
+        },
+        {
+          "text": " mark to "
+        },
+        {
+          "text": "hex",
+          "alias": "type",
+          "meta": "@Type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e1bce043-ceaa-4023-bf6f-9da826b60b37",
+      "data": [
+        {
+          "text": "plus",
+          "alias": "char",
+          "meta": "@Character",
+          "userDefined": true
+        },
+        {
+          "text": " sign to "
+        },
+        {
+          "text": "hex",
+          "alias": "type",
+          "meta": "@Type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "70e54f1c-0f60-461d-b9f4-200d2146ffb2",
+      "data": [
+        {
+          "text": "exclamation point",
+          "alias": "char",
+          "meta": "@Character",
+          "userDefined": true
+        },
+        {
+          "text": " symbol to "
+        },
+        {
+          "text": "decimal",
+          "alias": "type",
+          "meta": "@Type",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "53e988df-6b9f-4178-a754-7beb57619c9e",
+      "data": [
+        {
+          "text": "uppercase",
+          "alias": "case",
+          "meta": "@Case",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "a",
+          "alias": "char",
+          "meta": "@Character",
+          "userDefined": false
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "hex",
+          "alias": "type",
+          "meta": "@Type",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "670c7b83-6fdd-46bf-b991-ccf54ed0f21a",
+      "data": [
+        {
+          "text": " "
+        },
+        {
+          "text": "A",
+          "alias": "char",
+          "meta": "@Character",
+          "userDefined": false
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "hex",
+          "alias": "type",
+          "meta": "@Type",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "756a9b17-3fc3-4d4a-95cf-5afb4534b38a",
+  "name": "ConvertIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "required": false,
+          "dataType": "@Character",
+          "name": "char",
+          "value": "$char",
+          "isList": false
+        },
+        {
+          "dataType": "@Type",
+          "name": "type",
+          "value": "$type",
+          "isList": false
+        },
+        {
+          "dataType": "@Case",
+          "name": "case",
+          "value": "$case",
+          "isList": false
+        },
+        {
+          "dataType": "@Phoenetic",
+          "name": "phoenetic",
+          "value": "$phoenetic",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

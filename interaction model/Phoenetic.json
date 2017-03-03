@@ -1,0 +1,165 @@
+{
+  "id": "8820e79e-c5da-43ab-b01e-d6846af7dc24",
+  "name": "Phoenetic",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Alpha",
+      "synonyms": [
+        "Alpha"
+      ]
+    },
+    {
+      "value": "Bravo",
+      "synonyms": [
+        "Bravo"
+      ]
+    },
+    {
+      "value": "Charlie",
+      "synonyms": [
+        "Charlie"
+      ]
+    },
+    {
+      "value": "Delta",
+      "synonyms": [
+        "Delta"
+      ]
+    },
+    {
+      "value": "Echo",
+      "synonyms": [
+        "Echo"
+      ]
+    },
+    {
+      "value": "Foxtrot",
+      "synonyms": [
+        "Foxtrot"
+      ]
+    },
+    {
+      "value": "Golf",
+      "synonyms": [
+        "Golf"
+      ]
+    },
+    {
+      "value": "Hotel",
+      "synonyms": [
+        "Hotel"
+      ]
+    },
+    {
+      "value": "India",
+      "synonyms": [
+        "India"
+      ]
+    },
+    {
+      "value": "Juliette",
+      "synonyms": [
+        "Juliette"
+      ]
+    },
+    {
+      "value": "Kilo",
+      "synonyms": [
+        "Kilo"
+      ]
+    },
+    {
+      "value": "Lima",
+      "synonyms": [
+        "Lima"
+      ]
+    },
+    {
+      "value": "Mike",
+      "synonyms": [
+        "Mike"
+      ]
+    },
+    {
+      "value": "November",
+      "synonyms": [
+        "November"
+      ]
+    },
+    {
+      "value": "Oscar",
+      "synonyms": [
+        "Oscar"
+      ]
+    },
+    {
+      "value": "Papa",
+      "synonyms": [
+        "Papa"
+      ]
+    },
+    {
+      "value": "Quebec",
+      "synonyms": [
+        "Quebec"
+      ]
+    },
+    {
+      "value": "Romeo",
+      "synonyms": [
+        "Romeo"
+      ]
+    },
+    {
+      "value": "Sierra",
+      "synonyms": [
+        "Sierra"
+      ]
+    },
+    {
+      "value": "Tango",
+      "synonyms": [
+        "Tango"
+      ]
+    },
+    {
+      "value": "Uniform",
+      "synonyms": [
+        "Uniform"
+      ]
+    },
+    {
+      "value": "Victor",
+      "synonyms": [
+        "Victor"
+      ]
+    },
+    {
+      "value": "Whiskey",
+      "synonyms": [
+        "Whiskey"
+      ]
+    },
+    {
+      "value": "X-ray",
+      "synonyms": [
+        "X-ray"
+      ]
+    },
+    {
+      "value": "Yankee",
+      "synonyms": [
+        "Yankee"
+      ]
+    },
+    {
+      "value": "Zulu",
+      "synonyms": [
+        "Zulu"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

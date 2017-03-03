@@ -1,0 +1,33 @@
+{
+  "id": "de03723c-fd84-4ad7-927a-e82034a60f95",
+  "name": "Type",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Decimal",
+      "synonyms": [
+        "Decimal"
+      ]
+    },
+    {
+      "value": "Hex",
+      "synonyms": [
+        "Hex"
+      ]
+    },
+    {
+      "value": "Octal",
+      "synonyms": [
+        "Octal"
+      ]
+    },
+    {
+      "value": "Binary",
+      "synonyms": [
+        "Binary"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

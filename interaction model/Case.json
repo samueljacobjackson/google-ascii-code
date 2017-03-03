@@ -1,0 +1,23 @@
+{
+  "id": "e31c3b30-0c62-46bd-830d-46f90cf83270",
+  "name": "Case",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "UpperCase",
+      "synonyms": [
+        "UpperCase",
+        "upper case"
+      ]
+    },
+    {
+      "value": "LowerCase",
+      "synonyms": [
+        "LowerCase",
+        "lower case"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

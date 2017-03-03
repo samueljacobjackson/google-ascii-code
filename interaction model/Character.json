@@ -1,0 +1,465 @@
+{
+  "id": "eff7cc6e-6f55-4d73-9992-813419957a7e",
+  "name": "Character",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "A",
+      "synonyms": [
+        "A"
+      ]
+    },
+    {
+      "value": "B",
+      "synonyms": [
+        "B"
+      ]
+    },
+    {
+      "value": "C",
+      "synonyms": [
+        "C"
+      ]
+    },
+    {
+      "value": "D",
+      "synonyms": [
+        "D"
+      ]
+    },
+    {
+      "value": "E",
+      "synonyms": [
+        "E"
+      ]
+    },
+    {
+      "value": "F",
+      "synonyms": [
+        "F"
+      ]
+    },
+    {
+      "value": "G",
+      "synonyms": [
+        "G"
+      ]
+    },
+    {
+      "value": "H",
+      "synonyms": [
+        "H"
+      ]
+    },
+    {
+      "value": "I",
+      "synonyms": [
+        "I"
+      ]
+    },
+    {
+      "value": "J",
+      "synonyms": [
+        "J"
+      ]
+    },
+    {
+      "value": "K",
+      "synonyms": [
+        "K"
+      ]
+    },
+    {
+      "value": "L",
+      "synonyms": [
+        "L"
+      ]
+    },
+    {
+      "value": "M",
+      "synonyms": [
+        "M"
+      ]
+    },
+    {
+      "value": "N",
+      "synonyms": [
+        "N"
+      ]
+    },
+    {
+      "value": "O",
+      "synonyms": [
+        "O"
+      ]
+    },
+    {
+      "value": "P",
+      "synonyms": [
+        "P"
+      ]
+    },
+    {
+      "value": "Q",
+      "synonyms": [
+        "Q"
+      ]
+    },
+    {
+      "value": "R",
+      "synonyms": [
+        "R"
+      ]
+    },
+    {
+      "value": "S",
+      "synonyms": [
+        "S"
+      ]
+    },
+    {
+      "value": "T",
+      "synonyms": [
+        "T"
+      ]
+    },
+    {
+      "value": "U",
+      "synonyms": [
+        "U"
+      ]
+    },
+    {
+      "value": "V",
+      "synonyms": [
+        "V"
+      ]
+    },
+    {
+      "value": "W",
+      "synonyms": [
+        "W"
+      ]
+    },
+    {
+      "value": "X",
+      "synonyms": [
+        "X"
+      ]
+    },
+    {
+      "value": "Y",
+      "synonyms": [
+        "Y"
+      ]
+    },
+    {
+      "value": "Z",
+      "synonyms": [
+        "Z"
+      ]
+    },
+    {
+      "value": "1",
+      "synonyms": [
+        "1"
+      ]
+    },
+    {
+      "value": "2",
+      "synonyms": [
+        "2"
+      ]
+    },
+    {
+      "value": "3",
+      "synonyms": [
+        "3"
+      ]
+    },
+    {
+      "value": "4",
+      "synonyms": [
+        "4"
+      ]
+    },
+    {
+      "value": "5",
+      "synonyms": [
+        "5"
+      ]
+    },
+    {
+      "value": "6",
+      "synonyms": [
+        "6"
+      ]
+    },
+    {
+      "value": "7",
+      "synonyms": [
+        "7"
+      ]
+    },
+    {
+      "value": "8",
+      "synonyms": [
+        "8"
+      ]
+    },
+    {
+      "value": "9",
+      "synonyms": [
+        "9"
+      ]
+    },
+    {
+      "value": "0",
+      "synonyms": [
+        "0"
+      ]
+    },
+    {
+      "value": "Space",
+      "synonyms": [
+        "Space"
+      ]
+    },
+    {
+      "value": "Exclamation",
+      "synonyms": [
+        "Exclamation"
+      ]
+    },
+    {
+      "value": "Double Quote",
+      "synonyms": [
+        "Double Quote"
+      ]
+    },
+    {
+      "value": "Quote",
+      "synonyms": [
+        "Quote"
+      ]
+    },
+    {
+      "value": "Hash",
+      "synonyms": [
+        "Hash"
+      ]
+    },
+    {
+      "value": "Pound",
+      "synonyms": [
+        "Pound"
+      ]
+    },
+    {
+      "value": "Dollar",
+      "synonyms": [
+        "Dollar"
+      ]
+    },
+    {
+      "value": "Percent",
+      "synonyms": [
+        "Percent"
+      ]
+    },
+    {
+      "value": "Ampersand",
+      "synonyms": [
+        "Ampersand"
+      ]
+    },
+    {
+      "value": "Single Quote",
+      "synonyms": [
+        "Single Quote"
+      ]
+    },
+    {
+      "value": "Apostrophe",
+      "synonyms": [
+        "Apostrophe"
+      ]
+    },
+    {
+      "value": "Right Parenthesis",
+      "synonyms": [
+        "Right Parenthesis"
+      ]
+    },
+    {
+      "value": "Left Parenthesis",
+      "synonyms": [
+        "Left Parenthesis"
+      ]
+    },
+    {
+      "value": "Times",
+      "synonyms": [
+        "Times"
+      ]
+    },
+    {
+      "value": "Star",
+      "synonyms": [
+        "Star"
+      ]
+    },
+    {
+      "value": "Plus",
+      "synonyms": [
+        "Plus"
+      ]
+    },
+    {
+      "value": "Comma",
+      "synonyms": [
+        "Comma"
+      ]
+    },
+    {
+      "value": "Minus",
+      "synonyms": [
+        "Minus"
+      ]
+    },
+    {
+      "value": "Dash",
+      "synonyms": [
+        "Dash"
+      ]
+    },
+    {
+      "value": "Period",
+      "synonyms": [
+        "Period"
+      ]
+    },
+    {
+      "value": "Dot",
+      "synonyms": [
+        "Dot"
+      ]
+    },
+    {
+      "value": "Forward Slash",
+      "synonyms": [
+        "Forward Slash"
+      ]
+    },
+    {
+      "value": "Slash",
+      "synonyms": [
+        "Slash"
+      ]
+    },
+    {
+      "value": "Colon",
+      "synonyms": [
+        "Colon"
+      ]
+    },
+    {
+      "value": "Semicolon",
+      "synonyms": [
+        "Semicolon"
+      ]
+    },
+    {
+      "value": "Less Than",
+      "synonyms": [
+        "Less Than"
+      ]
+    },
+    {
+      "value": "Greater Than",
+      "synonyms": [
+        "Greater Than"
+      ]
+    },
+    {
+      "value": "Equals",
+      "synonyms": [
+        "Equals"
+      ]
+    },
+    {
+      "value": "Question",
+      "synonyms": [
+        "Question"
+      ]
+    },
+    {
+      "value": "At",
+      "synonyms": [
+        "At"
+      ]
+    },
+    {
+      "value": "Left Braket",
+      "synonyms": [
+        "Left Braket"
+      ]
+    },
+    {
+      "value": "Backslash",
+      "synonyms": [
+        "Backslash"
+      ]
+    },
+    {
+      "value": "Right Bracket",
+      "synonyms": [
+        "Right Bracket"
+      ]
+    },
+    {
+      "value": "Caret",
+      "synonyms": [
+        "Caret"
+      ]
+    },
+    {
+      "value": "Underscore",
+      "synonyms": [
+        "Underscore"
+      ]
+    },
+    {
+      "value": "Tick",
+      "synonyms": [
+        "Tick"
+      ]
+    },
+    {
+      "value": "Left Brace",
+      "synonyms": [
+        "Left Brace"
+      ]
+    },
+    {
+      "value": "Pipe",
+      "synonyms": [
+        "Pipe"
+      ]
+    },
+    {
+      "value": "Right Brace",
+      "synonyms": [
+        "Right Brace"
+      ]
+    },
+    {
+      "value": "Tilde",
+      "synonyms": [
+        "Tilde"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}
